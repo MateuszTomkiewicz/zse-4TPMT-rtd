@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Read the docs'
-author = ' Jakub Prucnal'
+author = ' Mateusz Tomkiewicz'
 
 extensions = [
     'sphinx.ext.autodoc',
