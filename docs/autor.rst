@@ -1,5 +1,5 @@
 O Autorze
 =========
 
-Jakub Prucnal 4TP
+Mateusz Tomkiewicz 4TP
 
